@@ -1,3 +1,3 @@
 module.exports = {
-  ...require('./shared/config/.prettierrc.app'),
+  ...require('../../shared/config/.prettierrc.app'),
 };

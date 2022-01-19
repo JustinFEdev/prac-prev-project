@@ -1,3 +1,3 @@
 module.exports = {
-  ...require('./shared/config/.eslintrc.app'),
+  extend: ['../shared/config/.eslintrc.app.js'],
 };
